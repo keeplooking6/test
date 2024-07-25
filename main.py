@@ -14,5 +14,6 @@ if __name__ == '__main__':
     print_hi('PyCharm')
     print("hello")
     print("keeplooking")
+    print("这是要给keeplooking分支使用的功能，但是目前还不提交到master分支")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
